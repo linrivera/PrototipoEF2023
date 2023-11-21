@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8272F352-F218-4969-A68B-BA3369B33DC6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hoteleria</RootNamespace>
+    <AssemblyName>Hoteleria</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Facturacion">
+      <HintPath>..\..\Facturacion\Facturacion\bin\Debug\Facturacion.dll</HintPath>
+    </Reference>
+    <Reference Include="Navegador, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Navegador.dll</HintPath>
+    </Reference>
+    <Reference Include="NavegadorVista">
+      <HintPath>..\..\..\..\..\..\..\..\..\..\Debug\Debug\NavegadorVista.dll</HintPath>
+    </Reference>
+    <Reference Include="ODBCconnector, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ODBCconnector.dll</HintPath>
+    </Reference>
+    <Reference Include="Reporteador">
+      <HintPath>..\..\Reporteador\Reporteador\bin\Debug\Reporteador.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="csDatos.cs" />
+    <Compile Include="csEntidades.cs" />
+    <Compile Include="csNegocio.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="wfAmbiente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfAmbiente.Designer.cs">
+      <DependentUpon>wfAmbiente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfCliente.Designer.cs">
+      <DependentUpon>wfCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfFolioCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfFolioCliente.Designer.cs">
+      <DependentUpon>wfFolioCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfReservacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfReservacion.Designer.cs">
+      <DependentUpon>wfReservacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfServicio.Designer.cs">
+      <DependentUpon>wfServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wfTipoAmbiente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wfTipoAmbiente.Designer.cs">
+      <DependentUpon>wfTipoAmbiente.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="wfAmbiente.resx">
+      <DependentUpon>wfAmbiente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfCliente.resx">
+      <DependentUpon>wfCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfFolioCliente.resx">
+      <DependentUpon>wfFolioCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfReservacion.resx">
+      <DependentUpon>wfReservacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfServicio.resx">
+      <DependentUpon>wfServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wfTipoAmbiente.resx">
+      <DependentUpon>wfTipoAmbiente.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

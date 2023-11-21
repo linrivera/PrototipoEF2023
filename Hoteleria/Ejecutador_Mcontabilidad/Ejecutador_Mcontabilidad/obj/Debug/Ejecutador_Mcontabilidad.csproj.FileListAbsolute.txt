@@ -1,0 +1,44 @@
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.Properties.Resources.resources
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.csproj.GenerateResource.cache
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Ejecutador_Mcontabilidad.exe.config
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Ejecutador_Mcontabilidad.exe
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Ejecutador_Mcontabilidad.pdb
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\CapaVistaMa.dll
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\CapaControladorMa.dll
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\CapaModeloMa.dll
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\CapaVistaMa.pdb
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\CapaControladorMa.pdb
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\CapaModeloMa.pdb
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.csproj.CopyComplete
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.exe
+C:\Users\linri\Desktop\Muestreo y auditoria\AuditoriayMuestra\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Ejecutador_Mcontabilidad.exe.config
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Ejecutador_Mcontabilidad.exe
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Ejecutador_Mcontabilidad.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Hoteleria.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\CapaControladorMa.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Navegador.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Reporteador.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Facturacion.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\ODBCconnector.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\CapaModeloMa.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Inventario.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\CapaVistaMa.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Hoteleria.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\CapaControladorMa.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Navegador.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Reporteador.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Reporteador.dll.config
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Facturacion.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\ODBCconnector.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\CapaModeloMa.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\bin\Debug\Inventario.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.Properties.Resources.resources
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.csproj.GenerateResource.cache
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.csproj.CopyComplete
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.exe
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Ejecutador_Mcontabilidad\Ejecutador_Mcontabilidad\obj\Debug\Ejecutador_Mcontabilidad.pdb

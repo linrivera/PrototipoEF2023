@@ -1,0 +1,182 @@
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\bin\Debug\Hoteleria.dll
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\bin\Debug\Navegador.pdb
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\bin\Debug\ODBCconnector.pdb
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfAmbiente.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfCliente.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfFolioCliente.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfReservacion.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfTipoAmbiente.resources
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\obj\Debug\Hoteleria.dll
+c:\users\adavi\documents\visual studio 2013\Projects\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.dll
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfAmbiente.resources
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfCliente.resources
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfFolioCliente.resources
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfReservacion.resources
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfTipoAmbiente.resources
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.dll
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.dll
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfAmbiente.resources
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfCliente.resources
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfFolioCliente.resources
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfReservacion.resources
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfTipoAmbiente.resources
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.dll
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfServicio.resources
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfServicio.resources
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Navegador.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\ODBCconnector.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Navegador.pdb
+C:\Users\Jennifer\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\ODBCconnector.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\bin\Debug\Hoteleria.dll
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\bin\Debug\Navegador.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\bin\Debug\ODBCconnector.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfAmbiente.resources
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfCliente.resources
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfFolioCliente.resources
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfReservacion.resources
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfServicio.resources
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfTipoAmbiente.resources
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\obj\Debug\Hoteleria.dll
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\bin\Debug\Facturacion.dll
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\bin\Debug\Inventario.dll
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\bin\Debug\Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos (Hoteleria)\Hoteleria\Hoteleria\bin\Debug\Inventario.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.dll
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.dll
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.dll
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.dll
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.dll
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Navegador.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\ODBCconnector.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.pdb
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfAmbiente.resources
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfCliente.resources
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfFolioCliente.resources
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfReservacion.resources
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfServicio.resources
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfTipoAmbiente.resources
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.dll
+C:\Users\marlon\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.dll
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.dll
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.dll
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Navegador.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\ODBCconnector.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.pdb
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfAmbiente.resources
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfCliente.resources
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfFolioCliente.resources
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfReservacion.resources
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfServicio.resources
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfTipoAmbiente.resources
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.dll
+C:\Users\alumno\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.dll
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.dll
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.dll
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\bin\Debug\Navegador.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\bin\Debug\ODBCconnector.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.pdb
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfAmbiente.resources
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfCliente.resources
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfFolioCliente.resources
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfReservacion.resources
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfServicio.resources
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfTipoAmbiente.resources
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.dll
+C:\Users\DANNY\Desktop\Navegador\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Reporteador.dll
+C:\Users\Adavi\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Reporteador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.dll
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.dll
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Reporteador.dll
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.dll
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Navegador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\ODBCconnector.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Reporteador.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.pdb
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfAmbiente.resources
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfCliente.resources
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfFolioCliente.resources
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfReservacion.resources
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfServicio.resources
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfTipoAmbiente.resources
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.dll
+C:\Users\Andrea\Desktop\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.dll
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.dll
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Reporteador.dll
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.dll
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.pdb
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Navegador.pdb
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\ODBCconnector.pdb
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Reporteador.pdb
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.pdb
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfAmbiente.resources
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfCliente.resources
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfFolioCliente.resources
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfReservacion.resources
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfServicio.resources
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfTipoAmbiente.resources
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.dll
+C:\Users\Anthony\Documents\UMG\Cycles\8th. Cycle\Diseño de Sistemas\HotelSanCarlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Hoteleria.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Reporteador.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Facturacion.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Navegador.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\ODBCconnector.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Reporteador.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Reporteador.dll.config
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\bin\Debug\Inventario.pdb
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.AssemblyReference.cache
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfAmbiente.resources
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfCliente.resources
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfFolioCliente.resources
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfReservacion.resources
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfServicio.resources
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.wfTipoAmbiente.resources
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.GenerateResource.cache
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.CoreCompileInputs.cache
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.csproj.CopyComplete
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.dll
+C:\Users\linri\Desktop\Nueva carpeta\DS2014\Grupo 3\Hotel San Carlos\Proyectos\Hoteleria\Hoteleria\obj\Debug\Hoteleria.pdb
